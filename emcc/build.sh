@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
+cd "$(dirname "$0")"
 OUT_DIR="$(pwd)"
 ROOT_DIR=${OUT_DIR}"/.."
 
