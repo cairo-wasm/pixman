@@ -27,6 +27,8 @@
 #ifndef PIXMAN_VERSION_H__
 #define PIXMAN_VERSION_H__
 
+#define PIXMAN_API
+
 #ifndef PIXMAN_H__
 #  error pixman-version.h should only be included by pixman.h
 #endif

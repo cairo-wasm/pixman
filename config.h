@@ -4,8 +4,6 @@
 /* Define if building universal (internal helper macro) */
 /* #undef AC_APPLE_UNIVERSAL_BUILD */
 
-#define PIXMAN_API
-
 /* Whether we have alarm() */
 #define HAVE_ALARM 1
 
